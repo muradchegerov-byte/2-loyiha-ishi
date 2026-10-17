@@ -1,1 +1,7 @@
-# 2-loyiha-ishi
+<h1>ikkinchi loyiham</h1>
+<br>
+<hr>
+<p>bu loyiha o'ziga yarasha qiziqarli bp'ladi</p>
+<br>
+<hr>
+<p>Loyihaga start berish uchun localhost:5500 kerak bo'ladi</p>
